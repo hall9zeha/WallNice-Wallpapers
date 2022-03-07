@@ -40,9 +40,7 @@ WallNice Wallpapers es una aplicación de fondos de pantalla en alta calidad gra
 
 ## Screenshots
 
-[<img src="https://github.com/hall9zeha/WallNice-Wallpapers/blob/main/Resources/Screenshot_20220307-123934.jpg" align="left"
-width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
+
 [<img src="https://github.com/hall9zeha/WallNice-Wallpapers/blob/main/Resources/screenshot_2.png" align="left"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
@@ -51,7 +49,7 @@ width="200"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
     
-[<img src="https://github.com/hall9zeha/WallNice-Wallpapers/blob/main/Resources/screenshot_4.png" align="center"
+[<img src="https://github.com/hall9zeha/WallNice-Wallpapers/blob/main/Resources/screenshot_4.png" align="left"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
 
