@@ -1,0 +1,63 @@
+# Excluyendo directorios y archivos
+
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+gradle
+.idea
+MyLibrary
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
+
+#incluimos LastAddedFragment.java
+
+app/*
+!app/src
+app/src/*
+!app/src/main
+app/src/main/*
+
+#excluimos todo menos activity_image_detail
+!app/src/main/res
+app/src/main/res/*
+!app/src/main/res/layout
+app/src/main/res/layout/*
+!app/src/main/res/layout/activity_image_detail.xml
+
+!app/src/main/java
+app/src/main/java/*
+!app/src/main/java/com
+app/src/main/java/com/*
+!app/src/main/java/com/barryzea
+app/src/main/java/com/barryzea/*
+!app/src/main/java/com/barryzea/wallhaven
+app/src/main/java/com/barryzea/wallhaven/*
+!app/src/main/java/com/barryzea/wallhaven/Fragments
+
+#excluimos todo menos LastAddedFragment.java
+app/src/main/java/com/barryzea/wallhaven/Fragments/*
+!app/src/main/java/com/barryzea/wallhaven/Fragments/LastAddedFragment.kt
+
+#excluimos todo menos WallHavenAdapter
+!app/src/main/java/com/barryzea/wallhaven/Adapters
+app/src/main/java/com/barryzea/wallhaven/Adapters/*
+!app/src/main/java/com/barryzea/wallhaven/Adapters/WallHavenAdapter.kt
+
+
+
+
